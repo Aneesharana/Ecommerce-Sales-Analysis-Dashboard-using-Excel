@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 
 This project is an interactive **E-Commerce Sales Analysis Dashboard** built in **Microsoft Excel** to analyze sales performance, profitability, order trends, and product category insights. The dashboard transforms raw sales data into meaningful business insights through dynamic visualizations and KPI tracking.
+
+---
+
 ## 🎯 Objectives
 * Monitor overall business performance using key metrics.
 * Analyze monthly sales and profit trends.
@@ -10,6 +13,9 @@ This project is an interactive **E-Commerce Sales Analysis Dashboard** built in 
 * Track Year-over-Year (YoY) growth.
 * Evaluate regional and state-wise sales performance.
 * Enable interactive filtering for better decision-making.
+
+---
+
 ## 🛠 Tools & Technologies
 * Microsoft Excel
 * Pivot Tables
@@ -95,7 +101,7 @@ This dashboard enables stakeholders to:
 * Make informed, data-driven decisions.
 
 ## 📸 Dashboard Preview
-
+<img width="1835" height="897" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a436b572-213b-47c6-b127-cbef6962457a" />
 
 ## 💡 Skills Demonstrated
 
