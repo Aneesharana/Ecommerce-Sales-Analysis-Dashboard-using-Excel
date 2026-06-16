@@ -101,7 +101,8 @@ This dashboard enables stakeholders to:
 * Make informed, data-driven decisions.
 
 ## 📸 Dashboard Preview
-<img width="1835" height="897" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a436b572-213b-47c6-b127-cbef6962457a" />
+<img width="1700" height="904" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/20b1916f-800a-4041-a949-47faf4559c3f" />
+
 
 ## 💡 Skills Demonstrated
 
